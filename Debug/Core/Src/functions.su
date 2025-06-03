@@ -1,0 +1,5 @@
+../Core/Src/functions.c:18:6:Motor1DriveDirection	16	static
+../Core/Src/functions.c:25:6:Motor1DriveReverseDirection	16	static
+../Core/Src/functions.c:32:6:Motor2DriveDirection	16	static
+../Core/Src/functions.c:38:6:Motor2DriveReverseDirection	16	static
+../Core/Src/functions.c:45:6:Pontentiometer1	4	static
